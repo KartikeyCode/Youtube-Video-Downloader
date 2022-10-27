@@ -8,6 +8,7 @@ The video you download will be saved directly into the folder in which the pytho
 ## Dependencies
 For this python file to run, you will need to install the pytube module.
 You can do this by simply opening your terminal and typing pip install pytube.
+In the future I will try to make it an executable file.
 
 ## Authors
 Kartikey Seth 
