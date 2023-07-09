@@ -5,6 +5,7 @@ Simple way to download videos in either mp3 or mp4 formats.
 this project was made using python and uses the pytube library.
 The video you download will be saved directly into the folder in which the python file exists.
 
+# Run the .exe file in the dist folder to use this product :D 
 
 ## Dependencies
 UPDATE:
